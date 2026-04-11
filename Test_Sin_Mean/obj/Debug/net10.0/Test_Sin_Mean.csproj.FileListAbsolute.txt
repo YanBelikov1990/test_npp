@@ -1,0 +1,14 @@
+/home/yan/TestSinMean/Test_Sin_Mean/bin/Debug/net10.0/Test_Sin_Mean
+/home/yan/TestSinMean/Test_Sin_Mean/bin/Debug/net10.0/Test_Sin_Mean.deps.json
+/home/yan/TestSinMean/Test_Sin_Mean/bin/Debug/net10.0/Test_Sin_Mean.runtimeconfig.json
+/home/yan/TestSinMean/Test_Sin_Mean/bin/Debug/net10.0/Test_Sin_Mean.dll
+/home/yan/TestSinMean/Test_Sin_Mean/bin/Debug/net10.0/Test_Sin_Mean.pdb
+/home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/Test_Sin_Mean.GeneratedMSBuildEditorConfig.editorconfig
+/home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/Test_Sin_Mean.AssemblyInfoInputs.cache
+/home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/Test_Sin_Mean.AssemblyInfo.cs
+/home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/Test_Sin_Mean.csproj.CoreCompileInputs.cache
+/home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/Test_Sin_Mean.dll
+/home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/refint/Test_Sin_Mean.dll
+/home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/Test_Sin_Mean.pdb
+/home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/Test_Sin_Mean.genruntimeconfig.cache
+/home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/ref/Test_Sin_Mean.dll
