@@ -12,3 +12,4 @@
 /home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/Test_Sin_Mean.pdb
 /home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/Test_Sin_Mean.genruntimeconfig.cache
 /home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/ref/Test_Sin_Mean.dll
+/home/yan/TestSinMean/Test_Sin_Mean/obj/Debug/net10.0/Test_Sin_Mean.sourcelink.json
