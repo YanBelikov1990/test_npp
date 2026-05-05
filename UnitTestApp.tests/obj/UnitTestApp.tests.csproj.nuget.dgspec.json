@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/yan/test_npp/Test_Sin_Mean/Test_Sin_Mean.csproj": {}
+    "/home/yan/test_npp/UnitTestApp.tests/UnitTestApp.tests.csproj": {}
   },
   "projects": {
-    "/home/yan/test_npp/Test_Sin_Mean/Test_Sin_Mean.csproj": {
+    "/home/yan/test_npp/UnitTestApp.tests/UnitTestApp.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/yan/test_npp/Test_Sin_Mean/Test_Sin_Mean.csproj",
-        "projectName": "Test_Sin_Mean",
-        "projectPath": "/home/yan/test_npp/Test_Sin_Mean/Test_Sin_Mean.csproj",
+        "projectUniqueName": "/home/yan/test_npp/UnitTestApp.tests/UnitTestApp.tests.csproj",
+        "projectName": "UnitTestApp.tests",
+        "projectPath": "/home/yan/test_npp/UnitTestApp.tests/UnitTestApp.tests.csproj",
         "packagesPath": "/home/yan/.nuget/packages/",
-        "outputPath": "/home/yan/test_npp/Test_Sin_Mean/obj/",
+        "outputPath": "/home/yan/test_npp/UnitTestApp.tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/yan/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,24 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.14.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

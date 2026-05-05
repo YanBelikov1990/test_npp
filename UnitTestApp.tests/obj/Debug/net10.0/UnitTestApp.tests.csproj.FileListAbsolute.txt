@@ -1,0 +1,6 @@
+/home/yan/test_npp/UnitTestApp.tests/obj/Debug/net10.0/UnitTestApp.tests.csproj.AssemblyReference.cache
+/home/yan/test_npp/UnitTestApp.tests/obj/Debug/net10.0/UnitTestApp.tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/yan/test_npp/UnitTestApp.tests/obj/Debug/net10.0/UnitTestApp.tests.AssemblyInfoInputs.cache
+/home/yan/test_npp/UnitTestApp.tests/obj/Debug/net10.0/UnitTestApp.tests.AssemblyInfo.cs
+/home/yan/test_npp/UnitTestApp.tests/obj/Debug/net10.0/UnitTestApp.tests.csproj.CoreCompileInputs.cache
+/home/yan/test_npp/UnitTestApp.tests/obj/Debug/net10.0/UnitTestApp.tests.sourcelink.json
